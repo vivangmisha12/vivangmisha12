@@ -19,7 +19,7 @@ I am motivated to continuously improve my skills and grow as a **reliable, impac
 ---
 
 <p align="center">
-  <img src="https://illustrations.popsy.co/gray/programming.svg" width="320" alt="Coding"/>
+  <img src="[https://illustrations.popsy.co/gray/programming.svg" width="320" alt="Coding](https://github.com/vivangmisha12/vivangmisha12/blob/main/undraw_programming_j1zw.svg)"/>
 </p>
 
 ## 🛠 Tech Stack
